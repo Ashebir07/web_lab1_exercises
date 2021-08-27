@@ -1,0 +1,17 @@
+.kkkkkk p {
+color: black;
+}
+.kkkkkk h1 {
+color: black;
+}
+.kkkkkk  p:hover {
+	background-color:rgb(34, 0, 0.567876543);
+	cursor: pointer;
+	color: white;
+
+}
+.abcd{
+	padding-left: 30%;
+	display: flex;
+	flex-direction: column;
+}
